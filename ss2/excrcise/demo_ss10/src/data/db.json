@@ -1,0 +1,120 @@
+{
+  "donhang": [
+    {
+      "id": "202",
+      "buyDate": "2024-07-25",
+      "total": 3600,
+      "number": "3",
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      }
+    },
+    {
+      "id": "203",
+      "buyDate": "2024-07-10",
+      "total": 2000,
+      "number": "5",
+      "products": {
+        "id": "2",
+        "name": "Acer 5302",
+        "price": 400,
+        "type": "Laptop"
+      }
+    },
+    {
+      "id": "204",
+      "buyDate": "2024-07-29",
+      "total": 7000,
+      "number": "20",
+      "products": {
+        "id": "3",
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      }
+    },
+    {
+      "id": "205",
+      "buyDate": "2024-07-26",
+      "total": 4000,
+      "number": "10",
+      "products": {
+        "id": "2",
+        "name": "Acer 5302",
+        "price": 400,
+        "type": "Laptop"
+      }
+    },
+    {
+      "id": "201",
+      "buyDate": "2024-07-25",
+      "total": 8400,
+      "number": "7",
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      }
+    },
+    {
+      "id": "200",
+      "buyDate": "2024-07-25",
+      "total": 3600,
+      "number": "9",
+      "products": {
+        "id": "2",
+        "name": "Acer 5302",
+        "price": 400,
+        "type": "Laptop"
+      }
+    },
+    {
+      "id": "206",
+      "buyDate": "2024-07-29",
+      "total": 6000,
+      "number": "5",
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      }
+    },
+    {
+      "id": "23432AVC",
+      "buyDate": "2024-07-23",
+      "total": 2000,
+      "number": "5",
+      "products": {
+        "id": "2",
+        "name": "Acer 5302",
+        "price": 400,
+        "type": "Laptop"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Ipad Pro M2",
+      "price": 1200,
+      "type": "Ipad"
+    },
+    {
+      "id": "2",
+      "name": "Acer 5302",
+      "price": 400,
+      "type": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Oppo F10",
+      "price": 350,
+      "type": "Điện thoại"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "donhang": [
+    {
+      "buyDate": "2024-01-09",
+      "total": "12",
+      "number": "1",
+      "available": true,
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      },
+      "id": "1"
+    },
+    {
+      "buyDate": "2024-01-09",
+      "total": "300",
+      "number": "7",
+      "available": true,
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      },
+      "id": "4"
+    },
+    {
+      "id": "CD-000",
+      "buyDate": "2024-07-26",
+      "total": 24000,
+      "number": "20",
+      "products": {
+        "id": "1",
+        "name": "Samsung Note 10",
+        "price": 1200,
+        "type": "Điện thoại"
+      },
+      "available": false
+    },
+    {
+      "id": "CD-010",
+      "buyDate": "2024-07-27",
+      "total": 24000,
+      "number": "20",
+      "products": {
+        "id": "1",
+        "name": "Ipad Pro M2",
+        "price": 1200,
+        "type": "Ipad"
+      },
+      "available": false
+    },
+    {
+      "id": "CD-011",
+      "buyDate": "2024-07-27",
+      "total": 7000,
+      "number": "20",
+      "products": {
+        "id": "3",
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      },
+      "available": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Ipad Pro M2",
+      "price": 1200,
+      "type": "Ipad"
+    },
+    {
+      "id": "2",
+      "name": "Acer 5302",
+      "price": 400,
+      "type": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Oppo F10",
+      "price": 350,
+      "type": "Điện thoại"
+    }
+  ]
+}

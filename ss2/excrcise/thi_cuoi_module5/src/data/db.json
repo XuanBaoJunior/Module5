@@ -1,0 +1,42 @@
+{
+  "quanAo": [
+    {
+      "id": "QA-0001",
+      "name": "Quần123",
+      "days": "2024-06-03",
+      "number": 1,
+      "products": {
+        "type": "New"
+      }
+    },
+    {
+      "id": "QA-0002",
+      "name": "Quần556",
+      "days": "2024-06-03",
+      "number": "9999999999999999999999999",
+      "products": {
+        "id": "2",
+        "type": "Hand"
+      }
+    },
+    {
+      "id": "QA-0003",
+      "name": "Áo123",
+      "days": "2024-06-03",
+      "number": 1,
+      "products": {
+        "type": "New"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "type": "New"
+    },
+    {
+      "id": "2",
+      "type": "Hand"
+    }
+  ]
+}

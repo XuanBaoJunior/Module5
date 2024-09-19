@@ -1,0 +1,96 @@
+{
+  "donhang": [
+    {
+      "id": "0",
+      "buyDate": "2020-03-21",
+      "total": "1000",
+      "number": "1",
+      "products": {
+        "id": 0,
+        "name": "Iphone X",
+        "price": 1000,
+        "type": "Điện thoại"
+      }
+    },
+    {
+      "buyDate": "2024-01-09",
+      "total": "12",
+      "number": "1",
+      "products": {
+        "id": 2,
+        "name": "Acer 5302",
+        "price": 400,
+        "type": "Laptop"
+      },
+      "id": "1"
+    },
+    {
+      "buyDate": "2024-01-04",
+      "total": "100",
+      "number": "2",
+      "products": {
+        "id": 3,
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      },
+      "id": "2"
+    },
+    {
+      "buyDate": "2023-12-12",
+      "total": "10000",
+      "number": "33",
+      "products": {
+        "id": 3,
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      },
+      "id": "3"
+    },
+    {
+      "buyDate": "2024-01-09",
+      "total": "300",
+      "number": "6",
+      "products": {
+        "id": 3,
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      },
+      "id": "4"
+    },
+    {
+      "buyDate": "2024-01-01",
+      "total": 700,
+      "number": "2",
+      "products": {
+        "id": 3,
+        "name": "Oppo F10",
+        "price": 350,
+        "type": "Điện thoại"
+      },
+      "id": "5"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Note 10",
+      "price": 1200,
+      "type": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Acer 5302",
+      "price": 400,
+      "type": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Oppo F10",
+      "price": 350,
+      "type": "Điện thoại"
+    }
+  ]
+}

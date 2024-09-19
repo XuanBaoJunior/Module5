@@ -1,0 +1,158 @@
+{
+  "donhang": [
+    {
+      "id": "PROD-0001",
+      "buyDate": "2024-06-03",
+      "total": 7000,
+      "number": "20",
+      "mota": "aa",
+      "available": false,
+      "products": {
+        "id": "3",
+        "name": "Blackmors",
+        "price": 350,
+        "type": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0002",
+      "buyDate": "2024-05-27",
+      "total": 800,
+      "number": "2",
+      "mota": "aa",
+      "available": false,
+      "products": {
+        "id": "2",
+        "name": "Hồng ngoại",
+        "price": 400,
+        "type": "Thiết bị y tế"
+      }
+    },
+    {
+      "id": "PROD-0003",
+      "buyDate": "2024-06-03",
+      "total": 400,
+      "number": "1",
+      "mota": "aa",
+      "available": false,
+      "products": {
+        "id": "2",
+        "name": "Hồng ngoại",
+        "price": 400,
+        "type": "Thiết bị y tế"
+      }
+    },
+    {
+      "id": "PROD-0004",
+      "buyDate": "2024-06-03",
+      "total": 800,
+      "number": "2",
+      "mota": "aa",
+      "available": false,
+      "products": {
+        "id": "2",
+        "name": "Hồng ngoại",
+        "price": 400,
+        "type": "Thiết bị y tế"
+      }
+    },
+    {
+      "id": "PROD-0005",
+      "buyDate": "2024-06-03",
+      "total": 2400,
+      "number": "2",
+      "mota": "aa",
+      "available": false,
+      "products": {
+        "id": "1",
+        "name": "Blackmors Omega",
+        "price": 1200,
+        "type": "Thực phẩm chức năng"
+      }
+    },
+    {
+      "id": "PROD-0007",
+      "buyDate": "2024-07-24",
+      "total": 7000,
+      "number": "20",
+      "mota": "",
+      "productName": "hh",
+      "productPrice": 10,
+      "productMota": "new",
+      "products": {
+        "id": "3",
+        "name": "Efferalgan",
+        "price": 350,
+        "type": "Dược phẩm"
+      },
+      "available": false
+    },
+    {
+      "id": "PROD-0008",
+      "buyDate": "2024-07-24",
+      "total": 24000,
+      "number": "20",
+      "mota": "new",
+      "productName": "hh",
+      "productPrice": 10,
+      "products": {
+        "id": "1",
+        "name": "Blackmors Omega",
+        "price": 1200,
+        "type": "Thực phẩm chức năng"
+      },
+      "available": false
+    },
+    {
+      "id": "PROD-0006",
+      "buyDate": "2024-07-24",
+      "total": 8000,
+      "number": "20",
+      "mota": "new",
+      "productName": "hh",
+      "productPrice": 10,
+      "products": {
+        "id": "4",
+        "name": "Máy đo",
+        "price": 400,
+        "type": "Thiết bị y tế"
+      },
+      "available": false
+    },
+    {
+      "id": "f940"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Blackmors Omega",
+      "price": 1200,
+      "type": "Thực phẩm chức năng"
+    },
+    {
+      "id": "2",
+      "name": "Hồng ngoại",
+      "price": 400,
+      "type": "Thiết bị y tế"
+    },
+    {
+      "id": "3",
+      "name": "Blackmors",
+      "price": 350,
+      "type": "Thực phẩm chức năng"
+    },
+    {
+      "id": "4",
+      "name": "Máy đo",
+      "price": 400,
+      "type": "Thiết bị y tế"
+    },
+    {
+      "id": "3",
+      "name": "Efferalgan",
+      "price": 350,
+      "type": "Dược phẩm"
+    }
+  ]
+}

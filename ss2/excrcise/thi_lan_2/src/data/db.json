@@ -1,0 +1,36 @@
+{
+  "sanpham": [
+    {
+      "id": "PROD-0001",
+      "buyDate": "2024-06-03",
+      "total": 7000,
+      "number": "20",
+      "products": {
+        "id": "3",
+        "name": "Nhiet ke hong ngoai",
+        "price": 350,
+        "type": "Thiet bi y te"
+      }
+    }
+  ],
+  "theloai": [
+    {
+      "id": "1",
+      "name": "Efferalgan",
+      "price": 1200,
+      "type": "Duoc pham"
+    },
+    {
+      "id": "2",
+      "name": "Blackmores CoQ10",
+      "price": 400,
+      "type": "Thuc pham chuc nang"
+    },
+    {
+      "id": "3",
+      "name": "Nhiet ke hong ngoai",
+      "price": 350,
+      "type": "Thiet bi y te"
+    }
+  ]
+}

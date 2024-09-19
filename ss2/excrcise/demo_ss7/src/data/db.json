@@ -1,0 +1,70 @@
+{
+  "car": [
+    {
+      "id": "CAR-001",
+      "buyDate": "2024-06-03",
+      "total": 4400,
+      "number": "2",
+      "mota": "new",
+      "products": {
+        "id": "2",
+        "name": "Mec GLC 300",
+        "price": 2200,
+        "type": "Executive"
+      }
+    },
+    {
+      "id": "CAR-0001",
+      "buyDate": "2024-07-16",
+      "total": 1200,
+      "number": "1",
+      "mota": "new",
+      "products": {
+        "id": "1",
+        "name": "Toyota Camry",
+        "price": 1200,
+        "type": "Sandan"
+      }
+    },
+    {
+      "id": "CAR-0002",
+      "buyDate": "2024-07-17",
+      "total": 6000,
+      "number": "5",
+      "mota": "new",
+      "products": {
+        "id": "1",
+        "name": "Toyota Camry",
+        "price": 1200,
+        "type": "Sandan"
+      }
+    },
+    {
+      "id": "CAR-0003",
+      "buyDate": "2024-07-17",
+      "total": 11000,
+      "number": "5",
+      "mota": "new",
+      "products": {
+        "id": "2",
+        "name": "Mec GLC 300",
+        "price": 2200,
+        "type": "Executive"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Toyota Camry",
+      "price": 1200,
+      "type": "Sandan"
+    },
+    {
+      "id": "2",
+      "name": "Mec GLC 300",
+      "price": 2200,
+      "type": "Executive"
+    }
+  ]
+}

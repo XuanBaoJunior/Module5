@@ -1,0 +1,15 @@
+{
+  "student": [
+
+  ],
+  "classrooms": [
+    {
+      "id": 1,
+      "nameClass": "A0623I1"
+    },
+    {
+      "id": 2,
+      "nameClass": "A0723I1"
+    }
+  ]
+}
